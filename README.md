@@ -7,9 +7,9 @@ I'm a **Data Scientist** and former **Telecommunications Engineer** with over 10
 * 🛠️ **Previous roles:** Technical Lead at MediaTek and Harman Connected Services.
 
 ### 🖥️ My Projects
-**Evolution of Social Issues in Movies**
-*M.Sc. dissertation Project*
-**Description:**
+**Evolution of Social Issues in Movies** <br>
+*M.Sc. dissertation Project* <br>
+**Description:** <br>
 A comprehensive study analyzing how social issues like inequality, feminism, war, and environmental topics are portrayed in films across eras and regions.
 
 ### Highlights:
