@@ -15,10 +15,11 @@ A comprehensive study analyzing how social issues like inequality, feminism, war
 #### Highlights:
 
 - Processed a dataset of over 45,000 films, categorized by social issues, era, and country.
-- Utilized SVM, Random Forest, and sentiment analysis to classify films into 12 social issue categories.
+- Utilized **SVM, Random Forest**, and sentiment analysis to classify films into 12 social issue categories.
 - Visualized trends to highlight dominant social themes across regions and genres.
 - Delivered actionable insights for filmmakers on underrepresented social issues and genres.
-- Technologies Used: Python, Pandas, Matplotlib, Scikit-learn.
+
+**Technologies Used:** Python, Pandas, Matplotlib, Scikit-learn.
 
 **Project Repository** 🔗 (Add your project repo link here)
 
