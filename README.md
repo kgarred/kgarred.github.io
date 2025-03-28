@@ -1,5 +1,5 @@
 # Data Scientist
-I'm a **Data Scientist** and former **Telecommunications Engineer** with over 10 years of professional experience in technical roles. Recently, I transitioned into the world of data science, driven by my passion for data-driven insights and problem-solving. I specialize in **machine learning, data visualization,** and **process automation.**
+<p>I'm a **Data Scientist** and former **Telecommunications Engineer** with over 10 years of professional experience in technical roles. Recently, I transitioned into the world of data science, driven by my passion for data-driven insights and problem-solving. I specialize in **machine learning, data visualization,** and **process automation.**</p>
 
 ### 🚀 About Me
 * 🔍 **Experienced in:** Python, Tableau, SQL, and machine learning tools.
