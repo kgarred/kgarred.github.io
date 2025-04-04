@@ -6,6 +6,22 @@ I'm a **Data Scientist** and former **Telecommunications Engineer** with over 10
 * 📈 **Skilled in:** Data analysis, modeling, and visualization to uncover actionable insights.
 * 🛠️ **Previous roles:** Technical Lead at MediaTek and Harman Connected Services.
 
+### 📫 Let's Connect!
+- **GitHub:** https://github.com/kgarred/kgarred.github.io
+- **LinkedIn:** https://www.linkedin.com/in/kiran-garred-3b7a53110/
+- **Email:** kirangarred@gmail.com
+
+### ⚙️ Technical Skills
+- **Programming Languages:** Python, SQL, C, C++
+- **Data Science Tools:** Tableau, Scikit-learn, Numpy, Pandas, Matplotlib, Seaborn
+- **Big Data & Databases:** MongoDB, Hadoop, Spark
+- **Version Control & Debugging:** Git, Wireshark, JIRA, Bugzilla, SVN
+
+### Eductation
+- M.Sc., Data Science | Middlesex University, London, UK (Nov 2024)
+- M.S., Computer Applications | Guru gobind singh Indraprastha University, India (July 2009)
+- B.Sc.(H), Computer Science | Delhi University, India (July 2006)
+
 ### 🖥️ My Projects
 #### Evolution of Social Issues in Movies
 *M.Sc. dissertation Project* <br>
@@ -23,18 +39,5 @@ A comprehensive study analyzing how social issues like inequality, feminism, war
 
 **Project Repository** 🔗 (Add your project repo link here)
 
-### ⚙️ Technical Skills
-- **Programming Languages:** Python, SQL, C, C++
-- **Data Science Tools:** Tableau, Scikit-learn, Numpy, Pandas, Matplotlib, Seaborn
-- **Big Data & Databases:** MongoDB, Hadoop, Spark
-- **Version Control & Debugging:** Git, Wireshark, JIRA, Bugzilla, SVN
 
-### Eductation
-- M.Sc., Data Science | Middlesex University, London, UK (Nov 2024)
-- M.S., Computer Applications | Guru gobind singh Indraprastha University, India (July 2009)
-- B.Sc.(H), Computer Science | Delhi University, India (July 2006)
 
-### Work Experience
-Freelance Data Scientist
-- Project 1
-- Project 2
