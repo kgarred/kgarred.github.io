@@ -26,18 +26,19 @@ I'm a **Data Scientist** and former **Telecommunications Engineer** with over 10
 #### Evolution of Social Issues in Movies
 *M.Sc. dissertation Project* <br>
 #### Description:
-A comprehensive study analyzing how social issues like inequality, feminism, war, and environmental topics are portrayed in films across eras and regions.
+A large-scale data science project analyzing the evolution and globalization of social themes like inequality, feminism, war, and environmental topics in cinema over time using machine learning across eras and regions and data visualization techniques.
 
 #### Highlights:
-
+- Scraped and processed data from 100K+ movie records across 165 countries using spider scrawler.
 - Processed a dataset of over 45,000 films, categorized by social issues, era, and country.
+- Feature engineered and manually labelled done using LLM and NLP features using llama3, langchain and vader.
 - Utilized **SVM, Random Forest**, and sentiment analysis to classify films into 12 social issue categories.
-- Visualized trends to highlight dominant social themes across regions and genres.
+- Visualized trends to highlight dominant social themes across regions and genres in tableau.
 - Delivered actionable insights for filmmakers on underrepresented social issues and genres.
 
-**Technologies Used:** Python, Pandas, Matplotlib, Scikit-learn.
+**Technologies Used:** Python, Pandas, Matplotlib, Scikit-learn, llama3, langchain, tableau.
+
+**Poster Link:**  <a href="https://github.com/kgarred/kgarred.github.io/tree/main/pdfs/Project_Poster.pdf">Dissertation poster</a>
 
 **Project Repository** 🔗 (Add your project repo link here)
-
-
 
