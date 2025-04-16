@@ -1,5 +1,5 @@
 # Data Scientist
-I'm a **Data Scientist** and former **Telecommunications Engineer** with over 10 years of professional experience in technical roles. Recently, I transitioned into the world of data science, driven by my passion for data-driven insights and problem-solving. I specialize in **machine learning, data visualization,** and **process automation.**
+I'm a **Data Scientist** and former **Telecommunications Engineer** with professional experience in technical roles. Recently, I transitioned into the world of data science, driven by my passion for data-driven insights and problem-solving. I specialize in **machine learning, data visualization,** and **process automation.**
 
 ### 🚀 About Me
 * 🔍 **Experienced in:** Python, Tableau, SQL, and machine learning tools.
@@ -35,6 +35,9 @@ A large-scale data science project analyzing the evolution and globalization of 
 - Utilized **SVM, Random Forest**, and sentiment analysis to classify films into 12 social issue categories.
 - Visualized trends to highlight dominant social themes across regions and genres in tableau.
 - Delivered actionable insights for filmmakers on underrepresented social issues and genres.
+
+**Visualization:**
+![alt text](https://github.com/kgarred/kgarred.github.io/tree/main/images/visualization_1.png)
 
 **Technologies Used:** Python, Pandas, Matplotlib, Scikit-learn, llama3, langchain, tableau.
 
