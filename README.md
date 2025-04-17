@@ -37,7 +37,7 @@ A large-scale data science project analyzing the evolution and globalization of 
 - Delivered actionable insights for filmmakers on underrepresented social issues and genres.
 
 **Visualization:** <br>
-<img src="https://github.com/kgarred/kgarred.github.io/tree/main/images/visualization_1.PNG" width="237"/>
+![visualization_1](https://github.com/user-attachments/assets/ea7f38e7-e530-47d6-b4a0-6ec8f8d7a514)
 
 **Technologies Used:** Python, Pandas, Matplotlib, Scikit-learn, llama3, langchain, tableau.
 
