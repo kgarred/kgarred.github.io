@@ -43,5 +43,5 @@ A large-scale data science project analyzing the evolution and globalization of 
 
 **Poster Link:**  <a href="https://github.com/kgarred/kgarred.github.io/tree/main/pdfs/Project_Poster.pdf">Dissertation poster</a>
 
-**Project Repository** 🔗 (Add your project repo link here)
+**Project Repository** 🔗 https://github.com/kgarred/Social-Issues-Evolution-in-Movies.git
 
